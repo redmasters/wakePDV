@@ -1,4 +1,4 @@
-# Script para ligar PDVs
+# Script para ligar PCs na rede
 
 
 ### Requisitos:
