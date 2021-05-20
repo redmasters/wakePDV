@@ -1,4 +1,7 @@
+.gitignore
 env/
 .vscode/
 .devcontainer/
 __pycache__/
+ping.py
+maclist.py
